@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm REENA SRI SAKTHIVEL</h1>
 <h3 align="center">"Crafting solutions through code and creativity"</h3><br>
 
-- 🌱 I’m currently learning **React, Node.js, Express and Tailwind CSS**
+- 🌱 I’m currently learning **React, Node.js and Express**
 
 - 📫 Reach me at **reenasakthi7292@gmail.com**
 <br>
