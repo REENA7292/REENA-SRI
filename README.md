@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm REENA SRI</h1>
+<h1 align="center">Hi 👋, I'm REENA SRI SAKTHIVEL</h1>
 <h3 align="center">"Crafting solutions through code and creativity"</h3><br>
 
 - 🌱 I’m currently learning **React, Node.js, Express and Tailwind CSS**
